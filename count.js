@@ -1,5 +1,7 @@
-function count(a) {
-	console.log(a);
+
+function count(age) {
+	console.log(age);
+	console.log('month');
 }
 
-count(111);
+count(11);
