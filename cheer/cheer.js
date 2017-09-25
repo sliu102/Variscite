@@ -1,7 +1,8 @@
 'use strict'
 
 
-function cheer(name) {
-    var name = 'Javascript';
-    console.log(name);
+function cheer(firstname, lastname) {
+    var firstname = 'Chase';
+    var lastname = 'chase'
+    console.log(firstname, ' ', lastname);
 }
