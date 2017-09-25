@@ -1,2 +1,4 @@
 var a = 'Liu';
-console.log('Greetings');
+function greet(name) {
+	console.log('Greetings, ' + name);
+}
