@@ -1,1 +1,2 @@
-console.log('Vincent');
+var a = 'Liu';
+console.log('Vincent'+a);
