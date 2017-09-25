@@ -1,6 +1,6 @@
-function count(age) {
+function count(age,month) {
 	console.log(age);
-	console.log('month');
+	console.log(month);
 }
 
-count(11);
+count(11,12);
