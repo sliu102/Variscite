@@ -2,6 +2,6 @@
 
 
 function cheer(name) {
-    var name = 'Variscite';
+    var name = 'JavaScript';
     console.log(name);
 }
