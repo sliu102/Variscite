@@ -2,6 +2,6 @@
 
 
 function cheer(name) {
-    var name = 'JavaScript';
+    var name = 'Javascript';
     console.log(name);
 }
