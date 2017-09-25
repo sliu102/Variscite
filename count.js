@@ -1,2 +1,3 @@
-var age = 22;
-console.log(age);
+function count(age) {
+	console.log(age);
+}
