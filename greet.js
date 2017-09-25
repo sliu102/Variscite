@@ -1,2 +1,3 @@
-var a = 'Liu';
-console.log('Greetings');
+function (a, b) {
+  console.log(a,b);
+}s
