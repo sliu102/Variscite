@@ -1,5 +1,5 @@
-function count(cunt) {
-	console.log(cunt);
+function count(lalal) {
+	console.log(lalal);
 }
 
 count(11);
