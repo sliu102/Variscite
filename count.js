@@ -4,4 +4,3 @@ function count(age) {
 }
 
 count(11);
-
