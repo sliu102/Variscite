@@ -1,4 +1,3 @@
-var a = 'Liu';
-function greet(name) {
-	console.log('Greetings, ' + name);
+function (a, b) {
+  console.log('Cheer for the '+b);
 }
