@@ -1,3 +1,3 @@
 function (a, b) {
-  console.log(a,b);
-}s
+  console.log('Cheer for the '+b);
+}
